@@ -1,1 +1,2 @@
-# Word-Guess-Game
+# PSYCHIC-GAME
+i named the repo word guess game but this is actually the psychic game. i am going to continue working on this project.. i need to add in the ability for the computer to track the number of guesses and increment a loss by 1 when number of guesses runs out. also make a reset so the game starts over after a certain number of wins or losses. 
